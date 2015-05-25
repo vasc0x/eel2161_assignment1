@@ -1,0 +1,18 @@
+/**************************************************/ 
+/* Name: Adan Vasconcelos
+/* Class: EEL2161
+/* Calculate */
+
+#include <stdio.h>
+#include <math.h>
+
+#define PI 3.141592
+
+main int (void)
+{
+  printf ("Hi");
+  
+  getchar();
+  
+  return 0;
+}
